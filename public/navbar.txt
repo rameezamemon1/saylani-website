@@ -1,0 +1,102 @@
+<ul class="menuzord-menu  menuzord-right menuzord-indented scrollable" style="max-height: 400px;">
+                            <li class="active"><a href="https://www.saylaniwelfare.com/home">Home</a></li>
+                            <li><a href="#">About<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+                                <ul class="dropdown" style="right: auto; display: none;">
+                                    <li><a href="https://www.saylaniwelfare.com/Introduction">Introduction</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Chairman-Message">Chairman Message</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-Annual-Report">Saylani Annual Report</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Saylani Services<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+                                <ul class="dropdown" style="right: auto;">
+                                    <li><a href="#">Education<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                        <ul class="dropdown" style="">
+                                            <li><a href="https://www.saylaniwelfare.com/saylani-mass-training">Saylani Mass Training<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                            <ul class="dropdown" style="">
+                                                    <li><a href="https://www.saylaniwelfare.com/SMIT-Programs">SMIT Programs</a></li>
+                                                    <li><a href="https://www.saylaniwelfare.com/faculty">Faculty</a></li>
+                                                    <li><a href="https://www.saylaniwelfare.com/result">Result</a></li>
+                                                    <li><a href="https://www.saylaniwelfare.com/Entry-Test-Schedule">Entry Test Schedule</a></li>
+
+                                                </ul>
+                                            </li>
+                                            <li><a href="https://www.saylaniwelfare.com/Saylani-Incubator">Saylani Incubator</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/Green-House">Green House</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Medical<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                        <ul class="dropdown" style="">
+                                            <li><a href="https://www.saylaniwelfare.com/Saylani-Blood-Bank-Thalessimia-Centre">Saylani Blood Bank and Thalassemia Center</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/Saylani-Clinic-Hospital">Saylani Clinic / Hospital</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/Medical-Intern-Form">Medical Internship Form</a></li>
+
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Welfare<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                        <ul class="dropdown" style="">
+                                            <li><a href="https://www.saylaniwelfare.com/Family-Adoption">Family Adoption</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/Wedding-Help">Wedding Help</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="https://www.saylaniwelfare.com/Hajj-Application-Form">Hajj Application Form</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-Dastarkhwan">Saylani Dastarkhwan</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-RO-Plant">Saylani RO Plant</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Online-Sadqah">Online Sadqah</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Online-Taweezat-Istikhara">Online Taweezat / Istekhara</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-Job-Bank">Saylani job Bank</a></li>
+                                    <li><a href="#">Online Quran Academy<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                        <ul class="dropdown" style="">
+                                            <li><a href="https://www.saylaniwelfare.com/Online-Quran-Admission">Online Quran Admission</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/Quran-App-Tafteesh">Quran App (Tafteesh)</a></li>
+                                            <li><a href="https://www.saylaniwelfare.com/OnlineQuranRegistration">Online Quran Registration</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="https://www.saylaniwelfare.com/Books">Books</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Masajid-Online-Admission-Form">Saylani Online Masajid</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Future Project<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+                                <ul class="dropdown" style="right: auto;">
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-University">Saylani University</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Saylani-City">Saylani City</a></li>
+                                </ul>
+
+                            </li>
+                            <li><a href="https://www.saylaniwelfare.com/Media">Media</a></li>
+                            <li><a href="https://www.saylaniwelfare.com/News">News</a></li>
+                            <li><a href="https://www.saylaniwelfare.com/Donation">Donation<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+                            <ul class="dropdown" style="right: 0px;">
+                                    <li><a href="https://www.saylaniwelfare.com/Bank-Detail">Bank Details</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Sadqa">Sadqa</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Aqiqa">Aqiqa</a></li>
+                                    <li><a href="https://www.saylaniwelfare.com/Donation">Other Donation</a>
+                                    </li><li><a href="https://www.saylaniwelfare.com/Corona-Effecties">Corona Effecties</a>
+                                    
+                                     </li><li><a href="https://www.saylaniwelfare.com/">Ramzan - 2020<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+                                            <ul class="dropdown" style="">
+                                                     <li><a href="https://www.saylaniwelfare.com/SAR-Ramzan">For Saudi Donor</a></li>
+                                                     <li><a href="https://www.saylaniwelfare.com/EURO-Ramzan">For Europe Donor</a></li>
+                                                     <li><a href="https://www.saylaniwelfare.com/UK-Ramzan">For UK Donor</a></li>
+                                                     <li><a href="https://www.saylaniwelfare.com/USA-Ramzan">For USA Donor</a></li>
+                                                     <li><a href="https://www.saylaniwelfare.com/UAE-Ramzan">For UAE Donor</a></li>
+                                                     <li><a href="https://www.saylaniwelfare.com/Ramzan">For PAK Donor</a></li>
+
+                                    <!-- <li><a href="https://www.saylaniwelfare.com/">Eid-Ul-Adha - 2020</a>-->
+                                           <!-- <ul class="dropdown">-->
+                                                <!--   <li><a href="https://www.saylaniwelfare.com/qurbani">For PAK Donor</a> -->
+                                                <!--   <li><a href="https://www.saylaniwelfare.com/qurbanius">For USA Donor</a>-->
+                                                <!--   <li><a href="https://www.saylaniwelfare.com/qurbanieuro">For Europe Donor</a>-->
+                                                <!--   <li><a href="https://www.saylaniwelfare.com/qurbaniuae">For UAE Donor</a>-->
+                                                <!--    <li><a href="https://www.saylaniwelfare.com/qurbanikwd">For Kuwait Donor</a>-->
+                                                   
+                                                   
+
+
+                                </ul>
+                            </li>
+                            <li><a href="https://www.saylaniwelfare.com/Contact-Us">Contact Us</a></li>
+                            </ul>
+                            
+                            <!-- <li><a href="#hadith">Hadith</a></li> -->
+                            <!-- <li class="active"><a href="#home">Donate <img class="" src="images/khuddam/donate.png" style="width: 18px;"></a></li> -->
+                        </li><li class="scrollable-fix"></li></ul>

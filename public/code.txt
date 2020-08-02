@@ -1,0 +1,47 @@
+<div class="container bg-light">
+            <div class="row">
+
+  <div class="col-md-8 pb-sm-20">
+    <h3 class="line-bottom mt-0" style="color: blue;">MISSION AND UPCOMING PROJECTS</h3>
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="icon-box left media bg-silver-light border-1px p-15 mb-20"> <a class="media-left pull-left flip" href="#"><img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/Hepatitis.png"></a>
+                <div class="media-body">
+                    <h4 class="font-15 text-uppercase" style="color: blue;">HEPATITIS</h4>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="icon-box left media bg-silver-light border-1px p-15 mb-20"> <a class="media-left pull-left flip" href="#"><img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/housing.png"></a>
+                <div class="media-body">
+                    <h4 class="font-15 text-uppercase" style="color: blue;">HOUSING SOCIETY </h4>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="icon-box left media bg-silver-light border-1px p-15 mb-20"> <a class="media-left pull-left flip" href="#"><img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/IT.png"></a>
+                <div class="media-body">
+                    <h4 class="font-15 text-uppercase" style="color: blue;">IT LITERACY</h4>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-6">
+            <div class="icon-box left media bg-silver-light border-1px p-15 mb-20"> <a class="media-left pull-left flip" href="#"><img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/tharparkar.png"></a>
+                <div class="media-body">
+                    <h4 class="font-15 text-uppercase"style="color: blue;">Tharparkar</h4>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+         
+            </div>
+          </div>
+
+
+
+
